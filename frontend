@@ -1,0 +1,4 @@
+[credform class='cred-form cred-keep-original']
+[cred_field field='form_messages' value='']
+[cred_field field='form_submit' value='Enviar' urlparam=]
+[/credform]
